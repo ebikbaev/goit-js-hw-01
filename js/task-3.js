@@ -1,3 +1,4 @@
+console.log('Task 3:');
 function getElementWidth(content, padding, border) {
   const contentW = parseFloat(content);
   const paddingW = parseFloat(padding);
